@@ -1,5 +1,9 @@
 # be-the-hero
 
+https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.png
+
+
+
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
