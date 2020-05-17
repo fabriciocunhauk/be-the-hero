@@ -1,4 +1,6 @@
-######################![](https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.svg?sanitize=true)
+<p align="center">
+  <img width="460" height="300" src="(https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.svg?sanitize=true">
+</p>
 
                                           🚀 Semana OmniStack 11.0
 # be-the-hero
