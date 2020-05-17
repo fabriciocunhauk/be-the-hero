@@ -1,6 +1,8 @@
 # be-the-hero
 Código produzido durante a Semana OmniStack 11.0
 
+![](https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.png)
+
 🚀 Tecnologias usadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
