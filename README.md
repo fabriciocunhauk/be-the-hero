@@ -1,3 +1,6 @@
+![](https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.svg?sanitize=true)
+
+                                          🚀 Semana OmniStack 11.0
 # be-the-hero
 Código produzido durante a Semana OmniStack 11.0
 
