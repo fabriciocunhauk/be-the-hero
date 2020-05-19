@@ -1,0 +1,56 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\fabri\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Users\fabri\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\fabri\AppData\Local\Microsoft\WindowsApps;C:\Users\fabri\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\fabri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Users\fabri\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (C:\Users\fabri\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141375:19)
+      at Object.onceWrapper (events.js:416:28)
+      at ClientRequest.emit (events.js:310:20)
+      at TLSSocket.emitRequestTimeout (_http_client.js:714:9)
+      at Object.onceWrapper (events.js:416:28)
+      at TLSSocket.emit (events.js:310:20)
+      at TLSSocket.Socket._onTimeout (net.js:479:8)
+      at listOnTimeout (internal/timers.js:549:17)
+      at processTimers (internal/timers.js:492:7)
+
+npm manifest: 
+  {
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "expo": "~37.0.3",
+      "react": "~16.9.0",
+      "react-dom": "~16.9.0",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+      "react-native-web": "~0.11.7"
+    },
+    "devDependencies": {
+      "babel-preset-expo": "~8.1.0",
+      "@babel/core": "^7.8.6"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
