@@ -30,7 +30,7 @@ https://be-the-hero-oficial.netlify.com/
 📱 App
 Download for Android
 
-💻 Projeto
+💻 Project
 
 Be the Hero is a project that aims to help a charity financially, helping it to stay.
 
