@@ -4,12 +4,11 @@
   
                                                  🚀 Semana OmniStack 11.0
 # be-the-hero
-Código produzido durante a Semana OmniStack 11.0
+Produced during Semana OmniStack 11.0
 
 ![](https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.png)
 
-🚀 Tecnologias usadas
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+🚀 Technologies used:
 
 Node.js
 Expo
@@ -29,30 +28,34 @@ Prettier
 https://be-the-hero-oficial.netlify.com/
 
 📱 App
-Download para Android
+Download for Android
 
 💻 Projeto
-Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
 
-🦸‍♂️ Qual a importância de ajudar uma ONG?
-As organizações não governamentais (ONGs) são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: direitos humanos, direitos animais, direitos indígenas, gênero, luta contra o racismo, meio ambiente, questões urbanas, imigrantes, entre muitos outros.
+Be the Hero is a project that aims to help a charity financially, helping it to stay.
 
-♻️ Como contribuir
-Fork esse repositório;
-Crie uma branch com a sua feature: git checkout -b my-feature
-Commit suas mudanças: git commit -m 'feat: My new feature'
-Push a sua branch: git push origin my-feature
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+🦸‍♂️ What is the importance of helping an NGO?
+Non-governmental organizations (NGOs) are private, non-profit civil society entities whose purpose is to defend and promote a cause. This cause can be of virtually any type: human rights, animal rights, indigenous rights, gender, the fight against racism, the environment, urban issues, immigrants, among many others.
 
-🎓 Quem ministrou?
-A semana foi ministrada pelo Diego Fernandes
+♻️ 
+How to contribute
+Fork this repository;
+Create a branch with your feature: git checkout -b my-feature
+Commit your changes: git commit -m 'feat: My new feature'
+Push your branch: git push origin my-feature
+After the merge of your pull request is done, you can delete your branch.
 
-📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+🎓 
+Who ministered?
+The week was given by Diego Fernandes
 
-📱 Social
-Me acompanhe nas minhas redes sociais.
+📝 
+License
+This project is under the MIT license. See the LICENSE file for more details.
 
+📱 
+Social
+Follow me on my social networks.
 Github Github Instagram Facebook Linkedin Email WhatsApp
 
-Feito Por Fabricio Cunha
+Made By Fabricio Cunha
